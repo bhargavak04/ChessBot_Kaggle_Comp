@@ -123,4 +123,4 @@ This bot is lightweight and deterministic — perfect for controlled competition
 
 ## 🧑‍💻 Author
 
-Developed by [Your Name] for the **Kaggle & FIDE ChessBot Competition**.
+Developed by Bhargav AK for the **Kaggle & FIDE ChessBot Competition**.
